@@ -2,7 +2,7 @@
 
 I'm a software engineer and technical lead who loves building robust systems, automating workflows, and diving deep into data infrastructure. Whether I'm managing enterprise development pipelines or tinkering with decentralized networks, I enjoy turning complex technical challenges into clean, scalable code.
 
-🌐 **Check out my personal site & portfolio:** [hartr.github.io](https://hartr.github.io/)
+🌐 **Check out my personal site & portfolio:** [hartrussell.com](https://hartrussell.com/)
 
 ---
 
